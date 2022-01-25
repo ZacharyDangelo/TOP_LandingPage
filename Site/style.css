@@ -134,8 +134,11 @@ body{
     margin-bottom: 5%;
     color:white;
     display:flex;
+    flex-basis: 100%;
+    justify-content: space-between;
     padding: 16px;
     gap: 16px;
+    text-align: center;
     
 }
 
@@ -144,10 +147,6 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-bottom: 8px;
-}
-
-.call-to-action-button{
-
 }
 
 .call-to-action button{
