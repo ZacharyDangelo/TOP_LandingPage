@@ -143,8 +143,11 @@ body{
     flex-basis: 100%;
     justify-content: space-between;
     padding: 16px;
+    padding-right:80px;
     gap: 16px;
     text-align: center;
+
+    align-items: center;
     
 }
 
