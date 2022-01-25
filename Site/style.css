@@ -96,6 +96,12 @@ body{
     text-align: center;
 }
 
+.container .media-item{
+    height: 200px;
+    width: 200px;
+
+}
+
 .container img{
     height: 100px;
     width: 100px;
