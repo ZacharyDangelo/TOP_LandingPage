@@ -133,12 +133,21 @@ body{
     margin-top: 5%;
     margin-bottom: 5%;
     color:white;
+    display:flex;
+    padding: 16px;
+    gap: 16px;
+    
+}
+
+.call-to-action h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
 }
 
 .call-to-action-button{
-    display:flex;
-    justify-content: space-between;
-    align-content: center;
+
 }
 
 .call-to-action button{
@@ -148,4 +157,12 @@ body{
     border-radius: 4px;
     font-size: 32px;
     padding: 5px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color:white;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
 }
